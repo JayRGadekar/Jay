@@ -2,11 +2,17 @@
    font-family: "Poppins", sans-serif; 
 }
 
-.nav-link a {
+.nav-link{
     float: left;
-    color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    padding: 0px 200px;
     font-size: 17px;
-  }
+}
+
+.navigation
+{
+    list-style-type: none;
+    font-style: none;
+    background-color: cyan;
+    display:flex;
+}
